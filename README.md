@@ -17,6 +17,7 @@ And here is the decoder part:
 
 After running the code for 10 epochs, here are the validation and the training loss:
 
-![image](https://user-images.githubusercontent.com/64538407/112272970-7831ca00-8c85-11eb-9395-e6524bd0f42f.png)
+![image](https://user-images.githubusercontent.com/64538407/112273019-8a136d00-8c85-11eb-82c5-a5892ff6cd07.png)
+
 
 
