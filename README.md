@@ -1,0 +1,2 @@
+# Image_Segmentation_UNet_OxfordPets
+This repository illustrates how to build a UNet for semantic image segmentation. This architecture is also a fully convolutional network and is similar to the model we just built in the previous repository. A key difference is the use of skip connections from the encoder to the decoder.  At the end of this lab, we will be able to use the UNet to output segmentation masks that shows which pixels of an input image are part of the background, foreground, and outline.
